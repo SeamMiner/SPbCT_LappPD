@@ -1,0 +1,7 @@
+﻿  car.cpp
+  Lab13_main.cpp
+C:\bonch\SPbCT_LappPD\Laba13\Laba13\Lab13_main.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab14_main.cpp
+  Lorry.cpp
+  Создание кода...
+  Laba13.vcxproj -> C:\bonch\SPbCT_LappPD\Laba13\x64\Debug\Laba13.exe

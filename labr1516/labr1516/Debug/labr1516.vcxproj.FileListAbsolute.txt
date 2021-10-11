@@ -1,0 +1,5 @@
+C:\Users\karis\source\repos\labr1516\labr1516\Debug\labr1516.vcxprojAssemblyReference.cache
+C:\Users\karis\source\repos\labr1516\labr1516\Debug\labr1516.MyForm.resources
+C:\Users\karis\source\repos\labr1516\labr1516\Debug\labr1516.vcxproj.GenerateResource.cache
+C:\bonch\SPbCT_LappPD\labr1516\labr1516\Debug\labr1516.MyForm.resources
+C:\bonch\SPbCT_LappPD\labr1516\labr1516\Debug\labr1516.vcxproj.GenerateResource.cache
