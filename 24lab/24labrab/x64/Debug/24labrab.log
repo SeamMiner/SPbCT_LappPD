@@ -1,0 +1,3 @@
+﻿  24labrab.cpp
+C:\bonch\SPbCT\SPbCT_LappPD\24lab\24labrab\24labrab.cpp(34,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  24labrab.vcxproj -> C:\bonch\SPbCT\SPbCT_LappPD\24lab\x64\Debug\24labrab.exe
