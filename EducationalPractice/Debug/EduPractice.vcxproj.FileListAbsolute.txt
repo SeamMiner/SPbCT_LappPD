@@ -1,0 +1,15 @@
+C:\Users\anya7\Documents\GitHub\SPbCT_YaskunovaAJ\EduPractice\Debug\EduPractice.vcxprojAssemblyReference.cache
+C:\Users\anya7\Documents\GitHub\SPbCT_YaskunovaAJ\EduPractice\Debug\EduPractice.MyForm.resources
+C:\Users\anya7\Documents\GitHub\SPbCT_YaskunovaAJ\EduPractice\Debug\EduPractice.vcxproj.GenerateResource.cache
+C:\Users\anya7\Documents\GitHub\SPbCT_YaskunovaAJ\EduPractice\Debug\EduPractice.exe
+C:\Users\anya7\Documents\GitHub\SPbCT_YaskunovaAJ\EduPractice\Debug\EduPractice.pdb
+C:\Users\anya7\Documents\GitHub\SPbCT_YaskunovaAJ\Учебная практика\EduPractice\Debug\EduPractice.vcxprojAssemblyReference.cache
+C:\Users\anya7\Documents\GitHub\SPbCT_YaskunovaAJ\Учебная практика\EduPractice\Debug\EduPractice.MyForm.resources
+C:\Users\anya7\Documents\GitHub\SPbCT_YaskunovaAJ\Учебная практика\EduPractice\Debug\EduPractice.vcxproj.GenerateResource.cache
+C:\Users\anya7\Documents\GitHub\SPbCT_YaskunovaAJ\Учебная практика\EduPractice\Debug\EduPractice.exe
+C:\Users\anya7\Documents\GitHub\SPbCT_YaskunovaAJ\Учебная практика\EduPractice\Debug\EduPractice.pdb
+C:\Users\anya7\Documents\GitHub\SPbCT_YaskunovaAJ\Учебная практика\EduPractice\Debug\EduPractice.User.resources
+C:\bonch\SPbCT\SPbCT_LappPD\EducationalPractice\Debug\EduPractice.MyForm.resources
+C:\bonch\SPbCT\SPbCT_LappPD\EducationalPractice\Debug\EduPractice.vcxproj.GenerateResource.cache
+C:\bonch\SPbCT\SPbCT_LappPD\EducationalPractice\Debug\EduPractice.exe
+C:\bonch\SPbCT\SPbCT_LappPD\EducationalPractice\Debug\EduPractice.vcxproj.AssemblyReference.cache
